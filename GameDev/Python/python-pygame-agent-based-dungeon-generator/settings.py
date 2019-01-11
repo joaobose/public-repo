@@ -15,4 +15,4 @@ game_folder=path.dirname(__file__)
 img_folder=path.join(game_folder,"pngs")
 snd_folder=path.join(game_folder,"snds")
 
-N_ROOMS = 100
+N_ROOMS = 200

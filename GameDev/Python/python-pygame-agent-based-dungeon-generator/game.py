@@ -50,7 +50,7 @@ class Game():
 
 				#escojemos un cuarto aleatorio
 
-				#si encontramos una direcion (es decir que el desde el cuarto actual se puede construir otro cuarto en esa direccion)
+				#si encontramos una direcion (es decir que el desde el cuarto actual se puede construir otro cuarto)
 				if dir != None:
 
 					#entonces definimos el cuarto a construir
