@@ -1,0 +1,8 @@
+{
+    "tilesize" : 8,
+    "maxFPS" : 120,
+    "width" : 1024,
+    "height" : 512,
+    "camera_vel" : 120,
+    "lifeGrid_delay" : 100
+}
